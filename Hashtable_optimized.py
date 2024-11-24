@@ -1,4 +1,4 @@
-''' Code Snippet For Collision Resolution via Separate Chaining '''
+''' Hash Table - Collision Resolution via Separate Chaining '''
 
 class HashTable:
     def __init__(self):
